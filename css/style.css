@@ -1,0 +1,163 @@
+h1{
+    color: #5863E3;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: normal;
+}
+h2{
+    font-size: 49px;
+    font-weight: 400;
+    line-height: normal;
+}
+.sec-1{
+    margin: 57px auto;
+    max-width: 1146px;
+}
+.inputdiv{
+    margin-top: 57px;
+}
+::placeholder{
+    color: #99999A;
+    font-size: 14px;
+    font-weight: 700;
+}
+#textarea{
+    display: inline-flex;
+    height: 298px;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8;
+    width: 65%;
+    vertical-align: top;
+    margin-right: 20px;
+}
+.infodiv{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 301px;
+    width: 32%;
+    vertical-align: top;
+}
+.infoplc{
+    display:flex;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8;
+    height: 59px;
+    width: 100%;
+}
+#button{
+    background: #5968F4;
+    width: 100%;
+    height: 59px;
+    color: white;
+    border: none;
+}
+.informationplc{
+    display: flex;
+    max-width: 997px;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 51px;
+}
+.inf{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 226px;
+}
+.shape{
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    background-color: #5968F4;
+}
+i{
+    margin-top: 32px;
+    margin-left: 18px;
+}
+.fa-location-dot{
+    margin-left: 22px;
+    margin-top: 32px;
+}
+a{
+    color: #99999A;
+    font-size: 15px;
+    font-weight: 700;
+}
+h3{
+    text-align: center;
+    margin-bottom: 8px;
+}
+.photodiv{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1318px;
+    width: 100%;
+    margin: 53px auto;
+    justify-content: space-between;
+}
+#ddd{
+    margin-left: 186px;
+    margin-top: 57px;
+}
+.footerdiv{
+    display: flex;
+    width: 100%;
+    height: 372px;
+    background-color: black;
+    justify-content: space-around;
+    padding-top: 70px;
+}
+.hotel{
+    display: inline-flex;
+    flex-direction: column;
+    height: 202px;
+    width: 295px;
+    justify-content: space-between;
+}
+.logodiv img{
+    height: 46px;
+    width: 46px;
+    margin-right: 8px;
+}
+h4{
+    color: white;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+}
+.hotel p{
+    color: #99999A;
+    font-size: 17px;
+}
+.links{
+    display: flex;
+    width: 110px;
+    height: 160px;
+    flex-direction: column;
+    flex-shrink: 0;  
+    justify-content: space-evenly;
+}
+.links a{
+    color: #5863E3;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: normal;
+}
+h5{
+    font-size: 21px;
+    color: white;
+}
+.CI{
+    height: 200px;
+    width: 250px;
+}
+.line i{
+    color: #344188;
+}
+h6{
+    color: white;
+    font-size: 17px;
+    margin-left: 40px;
+    line-height: normal;
+}
